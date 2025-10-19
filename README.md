@@ -2,10 +2,11 @@
 
 ### O desafio consiste em realizar testes de colaboração como:
 
-1.Colaborar com um projeto
-2.Realizar alterações
-    2.1.Adicionar commits
-    2.2.Abrir Issues
-    2.3.Pull Resquests
+1. Colaborar com um projeto
+2. Realizar alterações
+    3. Adicionar commits
+    4. Abrir Issues
+    5. Pull Resquests
 
     
+
